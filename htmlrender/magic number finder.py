@@ -48,3 +48,4 @@ if __name__=='__main__':
     stampaHTML('img', listaCodici[0][-2], blob.decode('utf-8'))
     print(listaCodici[0][-2])
     #print(blob)
+    a = 0
